@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+}
+ul {
+	padding: 0;
+}
+h1 {
+	font-size: 2em;
+}
+nav {
+	background-color: tomato;
+	margin: 0px;
+	padding: 10px;
+	text-align: center;
+}
+li {
+	background-color: red;
+	display: flex;
+	margin:10px 5px 15px 20px;
+	padding: ;
+}
+a {
+	color: ;
+	text-decoration: ;
+}
+section {
+	background-color: ;
+	text-align: ;
+	display: table;
+}
+.box {
+	float: left;
+	width: 33.33%;
+}
+img {
+	width: 90%;
+	height: ;
+}
+p {
+	background-color: ;
+	border: ;
+	height: ;
+	margin: ;
+	padding: ;
+}
